@@ -1,0 +1,44 @@
+Inicia repositorio vacio local
+$ git init 
+
+Indicar a quien pertenece / quien firma cada acciones
+$ git config user.name "mi nombre"
+$ git config user.email "micorreo"
+
+Conectar repositorio local con remoto 
+$ git clone "link del repositorio creado en GitHub"
+
+Adicionar archivos al repositorio
+$ git add "NombreArchivo"
+$ git add .   (para adicionar todos los archivos y sus cambios)
+
+Informacion sobre el estado 
+$ git status
+
+Commitea los cambios realizados
+$ git commit -m "TitulodelCommit"
+
+Listamos los commits de forma reducida
+$ git log --oneline 
+
+Cambiar de rama en la que trabajamos 
+$ git branch -m main    (si nos encontramos en master)
+
+Moverse entre ramas
+$ git branch "NombreRama"
+
+Sacarle el git a una carpeta
+$ rm -rf .git 
+
+Subir los cambios del repositorio local al remoto 
+$ git push 
+
+Mergear los cambios entre ramas
+$ git merge "NombreRama"
+
+Actualizar en el repositorio local los cambios simultaneos o adicionados por colaboradores 
+$ git pull 
+
+
+
+
