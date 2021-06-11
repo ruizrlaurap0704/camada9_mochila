@@ -1,0 +1,3 @@
+1 - Git fue diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. 
+2 - Actualmente pertenece a Microsoft GitHub Inc. Microsoft. Ya que asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias.
+3 - Se pueden realizar acciones desde la misma pagina.
