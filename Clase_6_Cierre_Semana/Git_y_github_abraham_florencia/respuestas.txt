@@ -1,0 +1,26 @@
+*Linus Torvalds* creaba la primera revisión de git, un sistema de control de versiones (diseñado inicialmente para el desarrollo de Linux) que se ha convertido en este tiempo en el más importante y utilizado del mundo. Para conmemorar este aniversario, Linus Torvalds ha explicado en esta entrevista cómo nació git y las motivaciones que le llevaron a comenzar este proyecto.
+
+¿Qué es git?
+Git es un sistema de control de versiones distribuido que, como ya hemos introducido, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. En la actualidad, existen además multitud de clientes gráficos y herramientas basadas en git.
+
+A grandes rasgos, un sistema de control de versiones o sistema de gestión del código fuente (SCM, Source Code Management), es un software que permite registrar todos los cambios realizados en el código fuente de un proyecto, de forma que sea sencillo comparar diferentes versiones del mismo, recuperar versiones anteriores y, en general, permitir que una o varias personas desarrollen un mismo proyecto de forma efectiva.
+
+La palabra clave cuando se describen las características de git, tal y como le gusta subrayar al propio Linus, es distribuido. Esto significa que en git, a diferencia de los sistemas de control de versiones centralizados (como CVS o Subversion), no es necesario que exista un repositorio central. Cada desarrollador dispone de una copia del repositorio con la historia completa del mismo y puede realizar en él todas las modificaciones que desee. Dichas modificaciones pueden ser posteriormente compartidas e incorporadas en los repositorios de otros desarrolladores. Este modo de funcionamiento permite eliminar la problemática que se presenta en los sistemas centralizados de decidir quién puede hacer cambios en el repositorio.
+
+[embedvideo type=”youtube” id=”4XpnKHJAok8″]
+
+Linus Torvalds hablando de git en una charla en Google.
+
+Este modo de funcionamiento distribuido, tal y como ha explicado el propio Linus Torvalds en repetidas ocasiones, era un requisito indispensable para el desarrollo del kernel de Linux, uno de los proyectos de código abierto más grandes del mundo en el que participan cientos de desarrolladores.
+
+¿Cómo nació git?
+Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. Como el propio Linus Torvalds explica, BitKeeper suponí­a un gran paso adelante comparado con otros SCMs como CVS y Subversion y, sin duda, inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido).
+
+Sin embargo, el hecho de ser un software propietario y ciertas desavenencias con su creador, Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones. Tan sólo un dí­a después ya habí­a desarrollado las bases de git para poder auto-gestionar el propio código de git en git y, una semana después, ya tení­a una primera versión. Resulta curioso que en la primera mención pública de git, cuando llevaba un par de dí­as de desarrollo, Torvalds describe git no como un sistema de control de versiones sino simplemente como una herramienta de distribución y archivado de ficheros. El resto, como suele decirse, es historia.
+
+Git fue diseñado por Torvalds con el proyecto de Linux y el workflow  de sus desarrolladores en mente y, obviamente, estos fueron los primeros en adoptarlo como sistema de control de versiones. El modo de funcionamiento distribuido, su eficiencia a la hora de trabajar con múltiples ramas y otras operaciones comunes como diffs (que en git se ejecutan en un suspiro), dan testimonio de cómo git fue diseñado con la intención de gestionar proyectos grandes como el kernel sin problemas.
+
+Git hoy
+10 años después, git es el sistema de control de versiones más utilizado del mundo. Aunque originalmente considerado como un software difícil de utilizar (por que como Torvalds reconoce, era difícil) hoy en día es mucho más amigable y es utilizado a diario por un sinfín de desarrolladores, proyectos y empresas en todo el mundo. Git está detrás de sitios tan populares e imprescindibles para la comunidad open-source como Github y Bitbucket, y se utiliza, por ejemplo, como herramienta de despliegue en Heroku. Además, proyectos como GitLab proporcionan una manera sencilla de tener un servidor propio para alojar proyectos con git.
+
+Ahora pertenece a microsoft, para permitirle a los desarrolladores faiclidades y es un sistema muy usado.
