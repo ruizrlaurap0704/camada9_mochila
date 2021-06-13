@@ -3,4 +3,4 @@ Git fue creado por Linus Torvalds  pensando en la eficiencia, la confiabilidad y
 ¿A quién pertenece actualmente Github y por qué?
 Actualmente le pertenece a Microsoft, porque la compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios. 
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
-Se puede trabajar desde la terminal o desde la pagina 
+Si, se puede trabajar desde la terminal o desde la pagina 
