@@ -1,0 +1,3 @@
+Git fue creado por Linus Torvalds. Es un sistema de control de versiones creado con el propósito de llevar registro de los cambios de los archivos y coordinar el trabajo que varias personas realizan sobre los mismos. 
+Actualmente pertenece a Microsoft. La compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios. 
+Se puede trabajar desde la terminal o desde la página web.
