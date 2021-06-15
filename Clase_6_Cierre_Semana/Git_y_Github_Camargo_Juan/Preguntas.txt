@@ -4,4 +4,3 @@ b. ¿A quién pertenece actualmente Github y por qué?
 El propietario actual es de microsoft por que vieron que era una mina de diamantes
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 Por la interfaz grafica "GUI" podemos tarbajar github sin la terminal
-
