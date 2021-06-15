@@ -1,0 +1,42 @@
+    git add . (Agrega todos los cambios)
+    git commit -m "nombre-commit" (Comitea todos los cambios hechos)
+    git push origin master (Envia los cambios al repositorio remoto. ORIGIN se considera el repositorio remoto y MASTER es la rama principal de dicho repositorio)
+    git status (Seguimiento del estado de los archivos)
+
+    git clone https://direccion-del-repositorio-en-gitHub.git (Para descargar todos los archivos del repositorio de gitHub y a su vez lo sincroniza; se hace cuando NO tenemos ningun archivo en el repo local, ya que para actualizar se usa otro comando.)
+    git pull origin master(Se utiliza para sincronizar los archivos locales con los de la nube, solo descarga o actualiza aquellos que hayan sido modificados, se da por sentado que ya teniamos una version del proyecto en el repositorio local)
+    git fetch (Similar a pull, pero trae tmb todo lo q hay en el proyecto no solo lo de la rama MAIN q es usualmente lo q indicamos en el pull)
+
+    git branch (Enumera todas las ramas de tu repositorio, es similar a git branch --list.)
+    git branch <branch> (Crea una nueva rama llamada <branch>.)
+    git branch -d <branch> (Elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios que aún no se han fusionado con la rama Main.)
+    git branch -D <branch> (Fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar.)
+    git checkout nombre_rama (Para moverse de una rama a otra, generalemnte solo podremos cambiar de rama si no hay cambios, por lo q si hay cambios hay q borrarlos o hacer un commit)
+    git branch -a (para ver todas las ramas q hay en el proyecto, tanto mias como de otros)
+    git branch -m main (para cambiar el nombre de la rama principal al main)
+
+    git push origin <branch> (para subir los cambio a github en la rama mencionada)
+    git pull origin <branch> (para bajar los cambios de github de la rama mencionada)
+    git pull (deberia bajar todos los cambios y actualizar, puede fallar jaja)
+
+    $ git --version (para ver la version de git )
+
+    $ git config user.name (para ver user (WinstonShaw)) 
+    $ git config user.email (para ver mail (winstonsshaw@hotmail.com)) 
+
+    (La primera vez q lo configure lo hice con --global para que lo haga para todos los repositorios de esta PC, tanto al user como al mail (por ej: git config --global user.name "WinstonShaw" ; y tmb : git config --global user.email "winstonsshaw@hotmail.com") )
+    
+    git init (Para iniciar un repositorio de git (vacio))
+
+    git remote add origin https://github.com//mi-usuario-nombre-del-repo.git (para vincular el git local con github, obviamente hay q poner el https://.. que figure en github)
+    git remote -v (para verificar que hayamos vinculado bien el repo con github)
+
+    git branch -M main (Si tenemos la rama principal como MASTER con esto lo cambiamos a main)
+
+    git add . (para indicar que archivos queremos agregar. El "." indica que seran todos los archivos)
+
+    git status (muestra el estado de todos los archivos)
+
+    git commit -m "nombre-del-commit"(para comitiar los archivos, osea generar el punto de tiempo donde se guardan los cambios. Entre "" hay q poner un nombre breve pero explicativo de lo que se realizo en los cambios)
+
+    git log (muestra el informte de todos los commits)
