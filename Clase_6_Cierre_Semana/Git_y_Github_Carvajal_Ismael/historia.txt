@@ -1,10 +1,7 @@
 a. ¿Quién inventó el sistema de control de versión Git y por qué?
-    "Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. En la actualidad, existen además multitud de clientes gráficos y herramientas basadas en git."
-    " Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones. Tan sólo un dí­a después ya habí­a desarrollado las bases de git para poder auto-gestionar el propio código de git en git y, una semana después, ya tení­a una primera versión. "
+    "Hace ya 10 años Linus Torvalds creaba la primera revisión de git, un sistema de control de versiones (diseñado inicialmente para el desarrollo de Linux) que se ha convertido en este tiempo en el más importante y utilizado del mundo". Tomado de: https://www.conasa.es/blog/git-10-anos-controlando-versiones/ 
 
 b. ¿A quién pertenece actualmente Github y por qué?
-    "Microsoft ha comprado GitHub según Bloomberg. El mayor repositorio de código del mundo es punto de encuentro para millones de desarrolladores, y esa es precisamente la clave. Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta."
-    "Microsoft asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias"
-
+    "Microsoft ha llegado a un acuerdo para adquirir GitHub, plataforma de desarrollo colaborativo de software, por 7.500 millones de dólares (6.406 millones de euros) en acciones, según ha anunciado el gigante de Redmond, que espera cerrar la compra a finales de año". Tomado de: https://elpais.com/tecnologia/2018/06/04/actualidad/1528122972_585607.html 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
-    "Desde la pagina oficial de Github"
+    "Se puede trabajar desde la pagina oficial de Github y desde su aplicación de escritorio"
