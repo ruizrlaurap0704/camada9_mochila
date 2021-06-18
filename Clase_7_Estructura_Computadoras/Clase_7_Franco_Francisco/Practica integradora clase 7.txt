@@ -1,0 +1,28 @@
+Práctica comparativa 
+
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior, 
+nos envió de regalo tres procesadores para nuestras diferentes necesidades, 
+yo (Matilda) le pedí uno para poder jugar al tan esperado Cyberpunk 2077, 
+mi pequeño hermano, Marcelo, en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, 
+por último, mi hermano mayor le encargó uno para poder hacer ediciones de video en un programa llamado Wondershare Filmora X.
+
+Estamos confundidos debido a que no los etiqueto con nombres…
+
+Nuestro padre nos envió los siguientes procesadores:
+
+Amd Ryzen 5
+Amd a8
+intel i3 3230
+
+¿Cuál es para cada uno?
+
+R\\
+Matilda deberia elegir el computador con el procesador AMD RYZEN 5 ya que de los 3 es el mas indicado para juegos ya que es el mas
+potente y con mayor cantidad de nucleos y mayor cantidad de transistores.
+el hermano menor Marcelo deberia elegir el INTEL I3 3230 ya que de los 3 es el de menor rendimiento y es el indicado para solo ejecutar
+la suite de office que no exgie mayor capacidad de procesamiento para realizar este tipo de tareas.
+y por ultimo el hermano mayor deberia tomar el AMD A8, ya que de los 3 es el indicado para tareas de edicion de video y su cantidad de 
+transistores es el suficiente para poder ejecutar de manera optima dicho porgrama que segun sus requerimientos de sistema podria 
+correr facilmente sin ningun problema.
