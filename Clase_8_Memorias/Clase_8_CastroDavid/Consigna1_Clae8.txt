@@ -1,0 +1,32 @@
+Block-a-Pix Deluxe    0.08
+Istanbul: Digital Edition    0.33
+Gems of War    0.458
+Dragon Quest Heroes I·II    1.4
+Air Conflicts: Pacific Carriers    1.4
+Air Conflicts: Secret Wars    1.5
+Snipperclips: Cut it Out, Together    1.6
+Puyo Puyo Tetris    1.6
+Inferno Climber: Reborn    1.7
+Cuphead    3.3
+Disgaea 5    5.92
+I Am Setsuna    5.92
+Mario Kart 8 Deluxe    7
+The Legend of Zelda: Breath of the Wild    13.4
+Nobunaga’s Ambition    30.51
+
+
+11    0.08
+15    0.33
+13    0.458
+7    1.4
+10    1.4
+9    1.5
+3    1.6
+5    1.6
+14    1.7
+12    3.3
+4    5.92
+6    5.92
+2    7
+1    13.4
+8    30.51
