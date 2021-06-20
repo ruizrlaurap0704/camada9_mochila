@@ -1,5 +1,5 @@
 a) ¿Quién inventó el sistema de control de versión Git y por qué?
-Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails
+Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. 
 
 b) ¿A quién pertenece actualmente Github y por qué?
 El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares. 
