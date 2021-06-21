@@ -1,9 +1,0 @@
-Preguntas
-a. Quien invento el sistema de control de version Git y por que?
-    R\ Fue creado por Linus Torvalds, fue creado porque al inicio los desarrolladores de Linux usaban BITKEEPER, y las discordias con su creador
-    llevaron a Linus Torvalds a diseñar e implementar su propio sistema de control de versiones, en tan solo un dia ya habia desarrolladores las
-    bases de GIT para poder autogestioner el propio codigo de GIT en GIT, y en una semana despues ya tenia una primera version.
-b. A quien le pertenece actualmente GitHub y por que?
-    R\ El software fue comprado por Microsoft, primero por un cambio de mentalidad de la compañia por el codigo abiero (Open source) 
-c. Hay otra forma que no sea la terminal para trabajar en Github?
-    R\ Se pueden realizar acciones desde la misma pagina web.
