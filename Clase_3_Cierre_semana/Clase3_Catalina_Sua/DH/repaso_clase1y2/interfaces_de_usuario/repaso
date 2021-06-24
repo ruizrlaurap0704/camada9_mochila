@@ -1,0 +1,4 @@
+Existen 3 tipos de interfaces de usuario:
+-CLI: es la interfaz de linea de comandos que permite ingresar caracteres alfanuméricos.
+-GUI: es la interfaz que permite una comunicación con el computador de forma intuitiva de una manera visual.
+-NUI: se refiere a las que pueden ser táctiles haciendo de panel de control, también mediante el reconocimiento de la voz.
