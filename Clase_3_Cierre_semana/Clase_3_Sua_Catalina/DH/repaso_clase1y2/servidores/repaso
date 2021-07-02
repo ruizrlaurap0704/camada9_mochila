@@ -1,0 +1,4 @@
+Existe 3 tipos de servidores:
+-Web: Almacena documentos HTML, archivos, imágenes, etc y distribuye todo esto a clientes que lo soliciten dentro de la red.
+-Bases de datos: proveen servicios de almacenamiento a otros programas o computadores.
+-Archivos: almacena varios tipos de archivos y los distribuye como en el web, a los clientes dentro de la red.
