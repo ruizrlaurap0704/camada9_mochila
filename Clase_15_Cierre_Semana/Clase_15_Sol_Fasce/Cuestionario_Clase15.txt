@@ -1,0 +1,4 @@
+1.Primero verificamos la conexion a internet, luego instalamos git en la maquina virtual, clonamos el repositorio remoto, creamos una carpeta con nuestro nombre y apellido, un archivo.
+2. Nos trae e informa sobre el paquete que queremos instalar, luego con el comando install.
+3. Sirve para enviarnos al root. No nos resulta familiar, en nuestro caso estabamos muchxs trabajando por primera vez con la maquina virtual.
+
