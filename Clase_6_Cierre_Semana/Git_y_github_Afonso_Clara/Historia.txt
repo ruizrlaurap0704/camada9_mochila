@@ -1,6 +1,0 @@
-¿Quién inventó el sistema de control de versión Git y por qué?
- Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por línea de comandos, disponible para Windows, MacOS X y GNU/Linux.
-¿A quién pertenece actualmente Github y por qué?
-Microsoft
-¿Hay otra forma que no sea la terminal para trabajar con Github?
-Desde la web

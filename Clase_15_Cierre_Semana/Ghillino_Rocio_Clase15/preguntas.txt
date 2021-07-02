@@ -1,0 +1,5 @@
+1. Instalamos GIT, clonamos un repositorio y creamos un archivo de extension txt dentro de una carpeta del repositorio clonado.
+2. Sirve para agregar paquetes del sistema.
+3. Sirve para cambiar de usuario a root
+4. Si, nos resulto familiar.
+

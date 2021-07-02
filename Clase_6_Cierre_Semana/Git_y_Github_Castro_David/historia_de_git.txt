@@ -1,3 +1,0 @@
-1. Linus torvald y lo hizo con el fin de llevar un seguimiento de todos los cambios de cada colaborador de un proyecto
-2. Pertenece a microsoft ya que estos decidieron comprarla en 2018
-3. Si, hay otra forma, desde la web

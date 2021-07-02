@@ -1,0 +1,19 @@
+CUESTIONARIO CLASE 15
+1. Describan con sus palabras lo que acaban de hacer.
+Rta. Inicialmente se verificó la conexión a Internet haciendo ping a la página de DH. 
+Luego de ello realizamos la instalación de Git, clonamos el repositorio de la Mochila de la camada 9
+ y finalmente creamos el archivo txt para responder el cuestionario, el cual estamos editando mediante
+el editor de texto en línea de comandos en Linux.
+
+2. Describir para qué sirve "apt-get".
+Rta. Este comando permite gestionar los paquetes instablables disponibles en los repositorios,
+instala/informa paquetes y dependencias de forma automática, los paquetes que instala los consigue
+de Internet. Es un comando muy extenso ya que permite realizar muchas funciones. 
+
+3. Describir para qué sirve "su".
+Rta. Este comando permite cambiar del usuario actual a usuario root o a cualquier usuario.
+
+4. ¿Les resultó familiar esta forma de conectarse a un equipo?
+Rta. No se exactamente a que conexión se refiere, pero es la misma forma en la que hemos venido conectandonos
+al repositorio y subiendo archivos allí. La conexión a la MV es similar a la de nuestra PC personal.
+
