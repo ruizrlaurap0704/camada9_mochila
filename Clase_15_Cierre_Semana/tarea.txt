@@ -1,0 +1,3 @@
+Primero instalamos git en la terminal, luego clonamos un repositorio ya creado git. Luego, lo que hicimos fue buscar la ruta (carpeta) donde nos ibamos a situar para poder crear nuestro archivos con als respuestas a las consignas. 
+Apt - get sirve para instalar paquetes ficheros. Su sirve para poner el superusuario (osea tener permiso de administrador - root).
+Me resulto parecido a git bash, a su vez, la maquina virtual es igual a lo que estuvimos trabjanod (al igual que visual code). 
