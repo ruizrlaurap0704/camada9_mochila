@@ -1,7 +1,0 @@
-git init / crea nuevo repositorio
-git status / verifica archivos y carpetas
-git commit -m / para commitear 
-git add + commit + push / para subir
-git clone + pull / para bajar
-git checkout / para moverse entre ramas
-git brunch / para crear ramas
