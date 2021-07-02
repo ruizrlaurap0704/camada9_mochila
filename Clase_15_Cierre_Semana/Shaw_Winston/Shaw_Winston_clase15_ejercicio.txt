@@ -1,0 +1,8 @@
+Q hicimos? Instalamos git y clonamos el repositorio remoto "mochila" de github
+
+apt-get sirve para descargar paquetes de archivos. 
+
+SU se usa para obtener permisos de root para operaciones sin tener que salir
+ y reentrar al sistema 
+
+es como el uso de la consola, o gitbash

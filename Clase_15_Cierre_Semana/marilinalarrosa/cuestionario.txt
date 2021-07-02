@@ -1,0 +1,4 @@
+Instalé git en mi maquina virtual y cloné el repositorio de la camada.
+apt-get es un comando de linux que sirve para instalar paquetes dependencias y programas.
+su sirve para poder entrar a la terminal como root o administradore, y hacer lo que los permisos de un usuarie normal no permite.
+Es familiar porque la terminal de debian me permite usar los mismos comandos que usamos en git bash
