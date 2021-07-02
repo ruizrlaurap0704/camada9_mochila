@@ -1,0 +1,8 @@
+1. Describan con sus palabras lo que acaban de hacer : 
+Instalar git desde la maquina virtual utilizando la terminal.
+2.Para que sirve el apt-get:
+Es un controlador de paquetes que nos permite descargar o reccibir archivos directamente desde la terminal a la computadora.
+3.Para que sirve su:
+Nos permite cambiar de usuario a traves de la terminal.
+4.Le resulta familiar esta forma de trabajar
+En cierta parte podemos asociarlas y acostumbrarnos a estos nuevos modelos. 
