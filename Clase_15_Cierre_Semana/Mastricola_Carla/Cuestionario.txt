@@ -1,0 +1,15 @@
+
+Describan con sus palabras lo que acaban de hacer: 
+- Primero verificamos la conexion a internet, luego instalamos GIT en la maquin$
+Luego clonamos el repositorio remoto, creamos una carpeta y un archivo. 
+
+Describir para que sirve "apt-get"
+- Trae e informa sobre el paquete que queremos instalar luego con el comando "i$
+
+Describir para que sirve "su" 
+- Para enviarnos al root. 
+
+Les resulto familiar esta forma de conectarse a un equipo?
+No.
+
+
