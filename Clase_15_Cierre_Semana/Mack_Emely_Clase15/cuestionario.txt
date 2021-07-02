@@ -1,0 +1,6 @@
+Primero, verificamos nuestra conexión a Internet. Después instalamos Git en nuestra máquina virtual y clonamos el repositorio remoto de la mochila.
+Acto seguido, creamos un archivo de texto, el cual estamos editando a través del editor GNU Nano de la terminal.
+
+El comando "apt-get" lo que hace es "traer" a la máquina virtual los paquetes del programa que se especificará luego que se desea instalar, pero no los instala hasta que no se ejecute junto con este el comando "install"
+
+El comando "su" se utiliza para cambiar al root, es decir al SuperUsuario, para así realizar operaciones administrativas, ya que el superuser es el administrador del sistema.
