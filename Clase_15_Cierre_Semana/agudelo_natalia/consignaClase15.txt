@@ -1,0 +1,4 @@
+Instalamos gita, clonamos un repositorio y creamos un archivo de extención txt dentro de una carpeta del repositorio clonado.
+apt-get sirve para instalar paquetes o progrmas al sistema 
+su es para cambiar de usuario a root 
+sí, nos resulto familiar. 
