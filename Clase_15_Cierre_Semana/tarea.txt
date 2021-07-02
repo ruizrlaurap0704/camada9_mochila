@@ -1,0 +1,5 @@
+1-Primero instalamos Git en la terminal, luego clonamos el repositorio de la camada 9. Luego buscamos la carpeta clase 15. y por ultimo creamos nuestra tarea de respuestas de las consignas.
+2-Sirve para instalar algun programa 
+3-su sirve para poner super usuario. Tener permiso de administrador
+4- Me resulto parecido a Git Bash
+
