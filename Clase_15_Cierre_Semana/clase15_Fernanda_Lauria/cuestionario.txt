@@ -1,0 +1,4 @@
+* lo que hicimos fue instalar git, clonamos un repositorio y creamos un archivo de extension txt dentro del repositorio.
+* apt-get sirve para instalar, agregar paquete de datos al sistema.
+* su sirve para cambiar de usuario a root.
+* si, nos resulto familiar.
