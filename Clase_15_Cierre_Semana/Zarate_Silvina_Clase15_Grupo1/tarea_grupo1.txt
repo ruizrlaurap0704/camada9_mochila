@@ -1,0 +1,13 @@
+- Describan con sus palabras lo que acaban de hacer:
+	1 Chequeamos la conexion a internet con ping 
+	2 Instalamos git con apt-get install git
+	3 Verificamos la version de git con el comando git --version
+	4 Clonamos el repositorio de la mochila 
+	5 Creamos un archivo txt
+	6 Ingresamos al editor de texto a traves del comando nano
+- Describan para que sirve apt-get
+	Sirve para instalar programas en Linux, borrarlos, actualizar los repositorios y actualizar el sistema desde la linea de comandos
+- Describir para que sirve su
+	Sirve para ejecutar programas con lso privilegios de seguridad de otro usuario (normalmente el usuario root) de manera segura, convirtiendose asi temporalmente en superusuario
+- Les resulto familiar esta forma de conectarse a un equipo?
+	Si, nos resulto familiar con respecto a conectarnos a Github

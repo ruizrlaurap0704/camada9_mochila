@@ -1,0 +1,9 @@
+1. Para que sirve el "apt-get"?
+R// El "apt-get" es una forma sencilla de instalar paquetes o actualizaciones directamente desde la terminal.
+
+2. Para que sirve "su"?
+R// El comando "su" en la terminal permite el ingreso al root que es el acceso administrativo, este es usado por el usuario administrador y tiene
+accesos que otros usuarios no tiene por cuestion de seguridad.
+
+3. Es muy familiar el ejercicio de practica ya que en la terminal de windows con git se usan los mismos comandos en la terminal que linux
+
