@@ -1,0 +1,4 @@
+1) Utilizamos la terminal para instalar el "Git bash" desde la maquina virtual y clonamos el repositorio de la mochila 
+2) apt-get: Es una forma sencilla de instalar paquetes desde la linea de comando. 
+3)su: sirve para entrar al nivel de superusuario (root) para instalar paquetes. 
+4)la forma de conectarse a este equipo fue familiar ya que hemos trabajado anterior mente esta manera de clonar el repositorio pero no la modificación con nano.
