@@ -1,0 +1,9 @@
+1. Utilizamos la terminal para: 
+	- Comprobar el estado de comunicación de nuestro equipo con el servicio de internet
+	- Instalar el Git bash y clonar el repositorio de la mochila virtual.
+
+2. apt-get: sirve para instalar paquetes desde la CLI.
+
+3. su: sirve para acceder al modo administrador o superusuario (root).
+
+4. Sí, nos resultó familiar porque es lo que veníamos trabajando en clase.
