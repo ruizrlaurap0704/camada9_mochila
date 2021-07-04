@@ -1,0 +1,34 @@
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto:
+
+1. Describan con sus palabras lo que acaban de hacer
+
+ Rta: Lo primero que hicimos fue corroborar nuestra conexión a 
+ internet mediante el comando "ping - 2 <Nombre página web>". 
+ Posteriormente instalamos Git a través del comando "apt-get install 
+ git" y probamos que estuviera instalado a través del comando "git 
+ --version". Luego clonamos el repositorio mediante el comando "git 
+ clone https://.." y por último creamos y editamos el documento 
+ mediante los comandos "touch" y "nano" respectivamente.
+
+2. Describir para qué sirve "apt-get".
+
+ Rta: El comando "apt-get" sirve para "instalar/informar sobre los 
+ paquetes,(...) los paquetes que instala los consigue de internet. 
+ Este comando es algo extenso y realiza funciones similares al comando 
+ "aptitude" siendo este ultimo más nuevo.
+ Tomado de: francisconi.org/linux/comandos/apt-get
+
+3. Describir para qué sirve "Su".
+
+ Rta: "El programa 'su' es una utilidad de los sistemas operativos del 
+ tipo Unix que permite usar el intérprete de comandos de otro usuario 
+ sin necesidad de cerrar la sesión. Comúnmente se usa para obtener 
+ permisos de root para operaciones administrativas, sin tener que 
+ salir y reentrar al sistema".
+
+4. ¿Les resultó familiar esta forma de conectarse a un equipo?
+
+ Rta: Si, fue bastante parecida a la forma como trabajamos con la 
+ terminal de Windows, aunque cambian algunos comandos que son propios 
+ de Linux.
+
