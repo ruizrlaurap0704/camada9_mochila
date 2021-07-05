@@ -1,0 +1,5 @@
+a. Git fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+
+b. GitHub fue desarrollado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon usando Ruby on Rails, y empezó en 2008. El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares, luego de que en febrero de ese año la plataforma fuera víctima del segundo mayor ataque de denegación de servicio (DDoS) de la historia, llegando a recibir un tráfico de 1.35 terabits x seg.
+
+c. Sí, se puede usar desde la plataforma online o desde su app de escritorio (GitHub Desktop).
