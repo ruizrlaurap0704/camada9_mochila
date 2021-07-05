@@ -1,6 +1,0 @@
-1- Utilizamos la terminal desde la maquina virtual para instalar el gitbash y clonar el repositorio de la mochila del viajero de nuestra camada
-2- apt-get: es una forma sencilla de instalar paquetes desde la CLI.
-3- su: sirve para entrar al modo administrador o superusuario (root)
-4- Si, nos resultó familiar porque es lo que venimos trabajando.
-
-
